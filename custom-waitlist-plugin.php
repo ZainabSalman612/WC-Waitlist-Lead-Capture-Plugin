@@ -4,7 +4,7 @@
  * Plugin URI:        https://example.com/waitlist
  * Description:       Combines waitlist lead capture with user account creation for WooCommerce.
  * Version:           1.0.0
- * Author:            Waitlist Corp
+ * Author:            Zainab Salman
  * Text Domain:       custom-waitlist-plugin
  */
 

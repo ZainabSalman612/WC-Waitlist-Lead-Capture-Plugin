@@ -1,0 +1,45 @@
+.waitlist-form-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.waitlist-form-container p {
+    margin-bottom: 15px;
+}
+.waitlist-form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.waitlist-form-container input[type="text"],
+.waitlist-form-container input[type="email"],
+.waitlist-form-container input[type="password"],
+.waitlist-form-container input[type="tel"],
+.waitlist-form-container textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.waitlist-btn {
+    background: #0073aa;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+}
+.waitlist-btn:hover {
+    background: #005177;
+}
+.waitlist-error {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+}
